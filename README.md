@@ -75,14 +75,15 @@
 </p>
 
 ### <picture> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width = 50px> </picture> Connect with me 🤝
-<!-- <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3> -->
-<a href="https://www.instagram.com/manu.dominguez22/">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
-</a>
-<a href="https://www.facebook.com/profile.php?id=100023686131131">
-  <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white">
-</a>
-<a href="https://www.linkedin.com/in/emanuel-dominguez-86500933a/">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
 
+<p align="center">
+  <a href="https://www.instagram.com/manu.dominguez22/">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100023686131131">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/emanuel-dominguez-86500933a/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</p>
