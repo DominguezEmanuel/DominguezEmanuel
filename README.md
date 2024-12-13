@@ -77,6 +77,7 @@
 ### <picture> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width = 50px> </picture> Connect with me 🤝
 
 <p align="center">
+  &emsp;
   <a href="https://www.instagram.com/manu.dominguez22/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
   </a>
