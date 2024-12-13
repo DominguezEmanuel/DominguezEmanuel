@@ -4,17 +4,18 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Analyst+Programmer+Student;Always+learning+new+things"></a>
 </p>
 
+<br>
+
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 <br><br>
 
-- :school: I am a `student` at Faculty of Engineering - UNJu.
-- :technologist: I love using Programming as a solution for every `Problem`.
-- :student: I’m currently learning `Web Development`.
-- :nerd_face: Always `learning new things`.
-- :trophy: My `main goal` is to design my own website.
+- 🏫 I am a `student` at Faculty of Engineering - UNJu.
+- 💻 I love using Programming as a solution for every `Problem`.
+- 🤓 Always `learning new things`, I’m currently learning `Web Development`.
+- 🏆 My `main goal` is to design my own website.
 <br>
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming languages
@@ -77,7 +78,6 @@
 ### <picture> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width = 50px> </picture> Connect with me 🤝
 
 <p align="center">
-  &emsp;
   <a href="https://www.instagram.com/manu.dominguez22/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
   </a>
