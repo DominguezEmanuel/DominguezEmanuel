@@ -14,7 +14,7 @@
 
 - 🏫 I am a `student` at Faculty of Engineering - UNJu.
 - 💻 I love using Programming as a solution for every `Problem`.
-- 🤓 Always `learning new things`, I’m currently learning `Web Development`.
+- 🤓 Always `learning new things`. I’m currently learning `Web Development`.
 - 🏆 My `main goal` is to design my own website.
 <br>
 
